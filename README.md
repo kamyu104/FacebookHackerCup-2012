@@ -13,19 +13,34 @@ Python solutions of Facebook Hacker Cup 2012. Solution begins with `*` means it 
 ## Qualification Round
 | # | Title | Solution | Time | Space | Difficulty | Tag | Note |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- |
+| 1 | [Alphabet Soup](https://www.facebook.com/hackercup/problem/341666075863455/) | | | | | | |
+| 2 | [Auction](https://www.facebook.com/hackercup/problem/268598303201105/) | | | | | | |
+| 3 | [Billboards](https://www.facebook.com/hackercup/problem/215823855164332/) | | | | | | |
 
 ## Round 1
 | # | Title | Solution | Time | Space | Difficulty | Tag | Note |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- |
+| 1 | [Checkpoint](https://www.facebook.com/hackercup/problem/191596157517194/) | | | | | | |
+| 2 | [Recover the Sequence](https://www.facebook.com/hackercup/problem/287764834605024/) | | | | | | |
+| 3 | [Squished Status](https://www.facebook.com/hackercup/problem/348968131789235/) | | | | | | |
 
 ## Round 2
 | # | Title | Solution | Time | Space | Difficulty | Tag | Note |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- |
+| 1 | [Monopoly](https://www.facebook.com/hackercup/problem/299871816717968/) | | | | | | |
+| 2 | [Road Removal](https://www.facebook.com/hackercup/problem/278355025564990/) | | | | | | |
+| 3 | [Sequence Slicing](https://www.facebook.com/hackercup/problem/317343604974808/) | | | | | | |
 
 ## Round 3
 | # | Title | Solution | Time | Space | Difficulty | Tag | Note |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- |
+| 1 | [Divisor Function Optimization](https://www.facebook.com/hackercup/problem/249570461788103/) | | | | | | |
+| 2 | [Trapezoids](https://www.facebook.com/hackercup/problem/182208915220500/) | | | | | | |
+| 3 | [Unfriending](https://www.facebook.com/hackercup/problem/277701708952729/) | | | | | | |
 
 ## Final Round
 | # | Title | Solution | Time | Space | Difficulty | Tag | Note |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- |
+| 1 | [Linsane Phone Numbers](https://www.facebook.com/hackercup/problem/259462987468531/) | | | | | | |
+| 2 | [Maximal Multiplicative Order](https://www.facebook.com/hackercup/problem/127392044056821/) | | | | | | |
+| 3 | [Possible Medians](https://www.facebook.com/hackercup/problem/294115787323526/) | | | | Very Hard | | |
